@@ -1,0 +1,63 @@
+.about-us {
+  margin-bottom: 100px;
+}
+
+.about-us__title {
+  margin-bottom: 50px;
+}
+
+.about-us__img {
+  float: left;
+  margin-right: 80px;
+}
+
+.about-us__p {
+  font-weight: 400;
+  font-size: 20px;
+  margin-bottom: 50px;
+  line-height: 28px;
+}
+
+.about-us__p_one {
+  margin-bottom: 35px;
+}
+
+.quote {
+  quotes: none;
+  font-weight: 400;
+  font-size: 44px;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  display: inline;
+}
+
+.quote__quotes {
+  color: #6C0287;
+  font-weight: 900;
+}
+
+.quote__wrapper-text {
+  display: inline;
+  padding-left: 35px;
+}
+
+.photo__sign {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  float: right;
+  margin-right: 45px;
+}
+
+.photo__img-photo {
+  float: right;
+  margin-right: 30px;
+}
+
+.photo {
+  padding-top: 30px;
+}
+
+.photo_clear {
+  clear:both;
+}

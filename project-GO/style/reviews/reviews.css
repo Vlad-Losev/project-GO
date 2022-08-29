@@ -1,0 +1,41 @@
+.reviews-section {
+  margin-bottom: 100px;
+}
+
+.reviews-section__title {
+  margin-bottom: 47px;
+}
+
+.reviews {
+  display: flow-root;
+  
+}
+
+.reviews:not(:last-child) {
+  margin-bottom: 50px;
+}
+
+.reviews-figure {
+  display: inline-block;
+  float: left;
+  margin-right: 20px;
+  margin-left: 100px;
+}
+
+.reviews-figure__img {
+  margin-bottom: 10px;
+}
+
+.reviews-figure__text { 
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.reviews__text {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  padding-top: 55px;
+}
