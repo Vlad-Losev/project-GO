@@ -1,0 +1,68 @@
+.contacts {
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.contacts__title {
+  margin-bottom: 65px;
+}
+
+.link-contacts {
+  text-decoration: none;
+  color: #fff;
+}
+
+.map__text {
+  display: inline-block;
+  vertical-align: middle;
+  text-decoration: none;
+  color: #fff;
+}
+
+.map__img {
+  vertical-align: middle;
+  margin-right: 20px;
+}
+
+.wrapper-map {
+  margin-bottom: 10px;
+}
+
+.link-tel__tel-text {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.link-tel__tel-img {
+  vertical-align: middle;
+  margin-right: 20px;
+}
+
+.wrapper-tel {
+  margin-bottom: 10px;
+}
+
+.link-mail__mail-text {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.link-mail__mail-img {
+  vertical-align: middle;
+  margin-right: 20px;
+}
+
+.wrapper-mail {
+  margin-bottom: 40px;
+}
+
+.network-list {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 45px;
+}
+
+.network-list__item {
+  display: inline-block;
+  margin-right: 20px;
+}
