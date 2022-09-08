@@ -1,10 +1,15 @@
+.footer {
+  background: linear-gradient(180deg, #1B1A1B 0%, #370A37 100%);  
+}
+
 .contacts {
   font-weight: 700;
   font-size: 24px;
+
 }
 
 .contacts__title {
-  margin-bottom: 65px;
+  margin-bottom: 45px;
 }
 
 .link-contacts {
@@ -65,4 +70,32 @@
 .network-list__item {
   display: inline-block;
   margin-right: 20px;
+}
+
+.footer-wrapper1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__img-map {
+  max-width: 680px;
+  max-height: 274px;
+  margin-bottom: 155px;
+}
+
+.copyright {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.copyright__text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: end;
+}
+
+.copyright__text_indent {
+  line-height: 22px;
 }
